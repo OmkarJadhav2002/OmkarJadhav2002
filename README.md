@@ -2,7 +2,7 @@
 <h1>Hey 😎 I'm Omkar Jadhav</h1> 
 <h2>Exploring the world of Data Science and Data Engineering</h2>
 
-- 👩🏻‍💻I'm currently learning Django, Machine Learning 
+- 👩🏻‍💻I'm currently learning Javascript, Machine Learning 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-jadhav-20340b215) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeMachine23) 
